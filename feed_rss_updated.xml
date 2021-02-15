@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Fri, 12 Feb 2021 17:15:27 -0000</pubDate>
-    <lastBuildDate>Fri, 12 Feb 2021 17:15:27 -0000</lastBuildDate>
+    <pubDate>Mon, 15 Feb 2021 15:33:56 -0000</pubDate>
+    <lastBuildDate>Mon, 15 Feb 2021 15:33:56 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,24 @@
     
 
     
+    
+    <item>
+      <title>ign2map : Du site à la carte en 7 étapes</title>
+      
+      
+        
+      <author>Florian Boret, Julien Moura</author>
+        
+      
+      <description>ign2map : le petit projet de Geotribu pour rendre l’expérience de téléchargement des données ouvertes de l&#39;IGN plus interactive.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-02-15_ignfr2map_carte_liens_IGN_open-data_7_etapes/</link>
+      <pubDate>Mon, 15 Feb 2021 15:06:58 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-15_ignfr2map_carte_liens_IGN_open-data_7_etapes/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/ign_opendata_map/ign_opendata_map_html_rendu.png" type="image/png" length="953084" />
+      
+    </item>
     
     <item>
       <title>Revue de presse du 12 février 2021</title>
@@ -800,22 +818,6 @@ Jamais au grand jamais ne répondre à la question dans l&#39;introduct</descrip
       <pubDate>Sat, 23 Jan 2021 09:38:58 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-12-06/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 20 décembre 2013</title>
-      
-      
-      <description># Revue de presse du 20 décembre 2013
-
-Bon bien évidemment qui dit période de noël, dit que nous allons avoir droit à toutes les rediffusions habituelles de films. Mais si, vous savez ces films que nous avons déjà vu 50 000 fois ! Au hasard, &#34;Maman j&#39;ai raté l&#39;avion&#34;. Avec un peu de chance, vous allez même peut-être avoir la trilogie. Pour ma part, voici ma sélection pour le 25 décembre:
-
-Bon plus sérieusement, chez GéoTribu nous se sommes pas vraiment des enfants de choeur mais Noël oblige, cet</description>
-      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-12-20/</link>
-      <pubDate>Sat, 23 Jan 2021 09:38:58 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-12-20/</guid>
       
     </item>
     

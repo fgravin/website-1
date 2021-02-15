@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Fri, 12 Feb 2021 17:15:27 -0000</pubDate>
-    <lastBuildDate>Fri, 12 Feb 2021 17:15:27 -0000</lastBuildDate>
+    <pubDate>Mon, 15 Feb 2021 15:33:56 -0000</pubDate>
+    <lastBuildDate>Mon, 15 Feb 2021 15:33:56 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,24 @@
     
 
     
+    
+    <item>
+      <title>ign2map : Du site à la carte en 7 étapes</title>
+      
+      
+        
+      <author>Florian Boret, Julien Moura</author>
+        
+      
+      <description>ign2map : le petit projet de Geotribu pour rendre l’expérience de téléchargement des données ouvertes de l&#39;IGN plus interactive.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-02-15_ignfr2map_carte_liens_IGN_open-data_7_etapes/</link>
+      <pubDate>Mon, 15 Feb 2021 11:11:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-15_ignfr2map_carte_liens_IGN_open-data_7_etapes/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/ign_opendata_map/ign_opendata_map_html_rendu.png" type="image/png" length="953084" />
+      
+    </item>
     
     <item>
       <title>Revue de presse du 12 février 2021</title>
@@ -707,22 +725,6 @@ De formation autodidacte, je travaille au Pays Marennes Oléron en tant que char
       <pubDate>Thu, 23 Jul 2020 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/contribuer/edit/local_edition_setup/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Insérer des diagrammes</title>
-      
-      
-        
-      <author>Julien Moura</author>
-        
-      
-      <description>Guide de contribution à Geotribu : comment intégrer des diagrammes Mermaid dans un contenu en Markdown.</description>
-      <link>https://static.geotribu.fr/contribuer/guides/diagrams/</link>
-      <pubDate>Mon, 20 Jul 2020 10:20:00 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/guides/diagrams/</guid>
       
     </item>
     
