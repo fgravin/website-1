@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Mon, 15 Feb 2021 15:33:56 -0000</pubDate>
-    <lastBuildDate>Mon, 15 Feb 2021 15:33:56 -0000</lastBuildDate>
+    <pubDate>Fri, 19 Feb 2021 13:32:11 -0000</pubDate>
+    <lastBuildDate>Fri, 19 Feb 2021 13:32:11 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -33,11 +33,33 @@
     
     
     <item>
+      <title>ign2map : automatisation et déploiement</title>
+      
+      
+        
+      <author>Julien Moura</author>
+        
+      <author>Florian Boret</author>
+        
+      
+      <description>Suite du projet ign2map : automatisation de l&#39;exécution des scripts et du déploiement de la carte interactive des liens de téléchargement des données ouvertes de l&#39;IGN, en tirant profit de GitHub Actions et Pages.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-02-19_ignfr2map_automatisation_deploiement/</link>
+      <pubDate>Fri, 19 Feb 2021 14:14:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-19_ignfr2map_automatisation_deploiement/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/ign_opendata_map/github_action_workflow_result.png" type="image/png" length="78409" />
+      
+    </item>
+    
+    <item>
       <title>ign2map : Du site à la carte en 7 étapes</title>
       
       
         
-      <author>Florian Boret, Julien Moura</author>
+      <author>Florian Boret</author>
+        
+      <author>Julien Moura</author>
         
       
       <description>ign2map : le petit projet de Geotribu pour rendre l’expérience de téléchargement des données ouvertes de l&#39;IGN plus interactive.</description>
@@ -713,18 +735,6 @@ De formation autodidacte, je travaille au Pays Marennes Oléron en tant que char
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-07-24/</guid>
       
       <enclosure url="https://raw.githubusercontent.com/tylermorganwall/rayshader/master/man/figures/smallfeature.png" type="image/png" length="321039" />
-      
-    </item>
-    
-    <item>
-      <title>Configurer l&#39;environnement pour l&#39;édition en local</title>
-      
-      
-      <description>Guide de contribution à Geotribu : comment déployer l&#39;environnment local idéal pour la contribuer.</description>
-      <link>https://static.geotribu.fr/contribuer/edit/local_edition_setup/</link>
-      <pubDate>Thu, 23 Jul 2020 10:20:00 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/edit/local_edition_setup/</guid>
       
     </item>
     

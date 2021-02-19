@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Mon, 15 Feb 2021 15:33:56 -0000</pubDate>
-    <lastBuildDate>Mon, 15 Feb 2021 15:33:56 -0000</lastBuildDate>
+    <pubDate>Fri, 19 Feb 2021 13:32:11 -0000</pubDate>
+    <lastBuildDate>Fri, 19 Feb 2021 13:32:11 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -33,16 +33,38 @@
     
     
     <item>
+      <title>ign2map : automatisation et déploiement</title>
+      
+      
+        
+      <author>Julien Moura</author>
+        
+      <author>Florian Boret</author>
+        
+      
+      <description>Suite du projet ign2map : automatisation de l&#39;exécution des scripts et du déploiement de la carte interactive des liens de téléchargement des données ouvertes de l&#39;IGN, en tirant profit de GitHub Actions et Pages.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-02-19_ignfr2map_automatisation_deploiement/</link>
+      <pubDate>Fri, 19 Feb 2021 13:23:59 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-19_ignfr2map_automatisation_deploiement/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/ign_opendata_map/github_action_workflow_result.png" type="image/png" length="78409" />
+      
+    </item>
+    
+    <item>
       <title>ign2map : Du site à la carte en 7 étapes</title>
       
       
         
-      <author>Florian Boret, Julien Moura</author>
+      <author>Florian Boret</author>
+        
+      <author>Julien Moura</author>
         
       
       <description>ign2map : le petit projet de Geotribu pour rendre l’expérience de téléchargement des données ouvertes de l&#39;IGN plus interactive.</description>
       <link>https://static.geotribu.fr/articles/2021/2021-02-15_ignfr2map_carte_liens_IGN_open-data_7_etapes/</link>
-      <pubDate>Mon, 15 Feb 2021 15:06:58 -0000</pubDate>
+      <pubDate>Fri, 19 Feb 2021 10:32:54 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-15_ignfr2map_carte_liens_IGN_open-data_7_etapes/</guid>
       
@@ -788,36 +810,6 @@ Bon cette semaine c&#39;est un vis ma vie à Terre Neuve. Pour l&#39;anecdote, j
       <pubDate>Sat, 23 Jan 2021 09:38:58 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-09-27/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 6 décembre 2013</title>
-      
-      
-      <description># Revue de presse du 6 décembre 2013
-
-L&#39;intro : un vaste sujet.
-
-Tout d&#39;abord une introduction c&#39;est une amorce, une phrase choc :
-
-*Odile Deray : Bon Simon, va falloir m&#39;le vendre ce film ! Trouver des gimmicks, des phrases choc...*
-
-*Simon Jérémi : Quel genre ?*
-
-*Odile Deray : Genre heu... Bah heu... Genre des phrases choc, quoi...*
-
-*Simon Jérémi : Quel genre ?*
-
-*Odile Deray : Genre des phrases choc !!*
-
-*Simon Jérémi : Ah.*
-
-Jamais au grand jamais ne répondre à la question dans l&#39;introduct</description>
-      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-12-06/</link>
-      <pubDate>Sat, 23 Jan 2021 09:38:58 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-12-06/</guid>
       
     </item>
     
