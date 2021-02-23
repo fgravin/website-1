@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Fri, 19 Feb 2021 15:33:55 -0000</pubDate>
-    <lastBuildDate>Fri, 19 Feb 2021 15:33:55 -0000</lastBuildDate>
+    <pubDate>Tue, 23 Feb 2021 08:36:50 -0000</pubDate>
+    <lastBuildDate>Tue, 23 Feb 2021 08:36:50 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -69,6 +69,24 @@
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-15_ignfr2map_carte_liens_IGN_open-data_7_etapes/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/ign_opendata_map/ign_opendata_map_html_rendu.png" type="image/png" length="953084" />
+      
+    </item>
+    
+    <item>
+      <title>Faire une carte en ligne (tuiles vectorielles + WebGL) 100% libre</title>
+      
+      
+        
+      <author>Boris MERICSKAY</author>
+        
+      
+      <description>En réaction au changement de licence de MapBox, de nombreuses initiatives ont émergé, dont une très intéressante : MapLibre. Voici un tutoriel complet pour l&#39;utiliser pour créer une carte web interactive 100% libre, en continuant à utiliser les fonctionnalités de MapboxGL sans dépendance aux jetons d&#39;accès.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-02-23_carte_ligne_libre/</link>
+      <pubDate>Tue, 16 Feb 2021 11:08:16 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-23_carte_ligne_libre/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/carte-ligne-libre/finalisation.JPG" type="image/jpeg" length="166086" />
       
     </item>
     
@@ -796,20 +814,6 @@ Pour des raisons de sécurité, notre système de navigation est basé sur des c
       <pubDate>Sat, 23 Jan 2021 09:38:58 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-04-19/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 27 Septembre 2013</title>
-      
-      
-      <description># Revue de presse du 27 Septembre 2013
-
-Bon cette semaine c&#39;est un vis ma vie à Terre Neuve. Pour l&#39;anecdote, j&#39;avais prévu hier d&#39;organiser une mapping party. Mais, tout comme l&#39;année dernière, ma tentative d&#39;enseigner un peu de VGI aux étudiants a été avortée grâce au temps de m$*&amp;... C&#39;est décidé, l&#39;année prochaine je cherche un poste au soleil ! Heureusement que mes collègues de GéoTribu m&#39;envoient de temps à autre de bonnes recettes pour me faire patienter. Aujourd&#39;hui, on reste dans un thè</description>
-      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-09-27/</link>
-      <pubDate>Sat, 23 Jan 2021 09:38:58 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-09-27/</guid>
       
     </item>
     

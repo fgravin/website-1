@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Fri, 19 Feb 2021 15:33:55 -0000</pubDate>
-    <lastBuildDate>Fri, 19 Feb 2021 15:33:55 -0000</lastBuildDate>
+    <pubDate>Tue, 23 Feb 2021 08:36:50 -0000</pubDate>
+    <lastBuildDate>Tue, 23 Feb 2021 08:36:50 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,24 @@
     
 
     
+    
+    <item>
+      <title>Faire une carte en ligne (tuiles vectorielles + WebGL) 100% libre</title>
+      
+      
+        
+      <author>Boris MERICSKAY</author>
+        
+      
+      <description>En réaction au changement de licence de MapBox, de nombreuses initiatives ont émergé, dont une très intéressante : MapLibre. Voici un tutoriel complet pour l&#39;utiliser pour créer une carte web interactive 100% libre, en continuant à utiliser les fonctionnalités de MapboxGL sans dépendance aux jetons d&#39;accès.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-02-23_carte_ligne_libre/</link>
+      <pubDate>Tue, 23 Feb 2021 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-23_carte_ligne_libre/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/carte-ligne-libre/finalisation.JPG" type="image/jpeg" length="166086" />
+      
+    </item>
     
     <item>
       <title>ign2map : automatisation et déploiement</title>
@@ -713,28 +731,6 @@ De formation autodidacte, je travaille au Pays Marennes Oléron en tant que char
       <pubDate>Tue, 04 Aug 2020 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/contribuer/guides/authoring/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 24 juillet 2020</title>
-      
-      
-        
-      <author>Arnaud Van de Casteele</author>
-        
-      <author>Julien Moura</author>
-        
-      <author>Mathieu Rajerison</author>
-        
-      
-      <description>Revue de presse géomatique (GeoRDP) du 24 juillet 2020 : API QGIS unifiée, carte de l&#39;univers, néologismes, animation 3D avec R stats, GeoDataDays, Uber et Google Maps, valeur économique de l&#39;information géographique, présentation de Kalisio, etc.</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-07-24/</link>
-      <pubDate>Fri, 24 Jul 2020 10:20:00 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-07-24/</guid>
-      
-      <enclosure url="https://raw.githubusercontent.com/tylermorganwall/rayshader/master/man/figures/smallfeature.png" type="image/png" length="321039" />
       
     </item>
     
