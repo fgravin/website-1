@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Tue, 23 Feb 2021 08:36:50 -0000</pubDate>
-    <lastBuildDate>Tue, 23 Feb 2021 08:36:50 -0000</lastBuildDate>
+    <pubDate>Fri, 26 Feb 2021 12:50:27 -0000</pubDate>
+    <lastBuildDate>Fri, 26 Feb 2021 12:50:27 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,24 @@
     
 
     
+    
+    <item>
+      <title>Revue de presse du 26 février 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 26 février 2021 : cette édition de la revue de presse de la géomatiue a été co-rédigée à 16 mains. Cette dimension collaborative se retrouve dans la diversité des sujets évoqués : artificialisation des sols, MOOC Adresse, Géovélo, nuages de poussière et les traditionnelles évolutions d&#39;outils dont QGIS 3.16 LTR et QGIS 3.18.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-02-26/</link>
+      <pubDate>Fri, 26 Feb 2021 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-02-26/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/nasa_perseverance_mars_map.jpg" type="image/jpeg" length="231265" />
+      
+    </item>
     
     <item>
       <title>Faire une carte en ligne (tuiles vectorielles + WebGL) 100% libre</title>
@@ -719,18 +737,6 @@ De formation autodidacte, je travaille au Pays Marennes Oléron en tant que char
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-08-07/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/map_as_a_fish_mapporn.jpeg" type="image/jpeg" length="39906" />
-      
-    </item>
-    
-    <item>
-      <title>Signer ses contributions</title>
-      
-      
-      <description>Contribuer à Geotribu : comment signer ses contributions au site.</description>
-      <link>https://static.geotribu.fr/contribuer/guides/authoring/</link>
-      <pubDate>Tue, 04 Aug 2020 14:20:00 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/guides/authoring/</guid>
       
     </item>
     

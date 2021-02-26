@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Tue, 23 Feb 2021 08:36:50 -0000</pubDate>
-    <lastBuildDate>Tue, 23 Feb 2021 08:36:50 -0000</lastBuildDate>
+    <pubDate>Fri, 26 Feb 2021 12:50:27 -0000</pubDate>
+    <lastBuildDate>Fri, 26 Feb 2021 12:50:27 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -33,6 +33,24 @@
     
     
     <item>
+      <title>Revue de presse du 26 février 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 26 février 2021 : cette édition de la revue de presse de la géomatiue a été co-rédigée à 16 mains. Cette dimension collaborative se retrouve dans la diversité des sujets évoqués : artificialisation des sols, MOOC Adresse, Géovélo, nuages de poussière et les traditionnelles évolutions d&#39;outils dont QGIS 3.16 LTR et QGIS 3.18.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-02-26/</link>
+      <pubDate>Fri, 26 Feb 2021 12:43:53 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-02-26/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/nasa_perseverance_mars_map.jpg" type="image/jpeg" length="231265" />
+      
+    </item>
+    
+    <item>
       <title>ign2map : automatisation et déploiement</title>
       
       
@@ -44,7 +62,7 @@
       
       <description>Suite du projet ign2map : automatisation de l&#39;exécution des scripts et du déploiement de la carte interactive des liens de téléchargement des données ouvertes de l&#39;IGN, en tirant profit de GitHub Actions et Pages.</description>
       <link>https://static.geotribu.fr/articles/2021/2021-02-19_ignfr2map_automatisation_deploiement/</link>
-      <pubDate>Fri, 19 Feb 2021 15:32:20 -0000</pubDate>
+      <pubDate>Wed, 24 Feb 2021 09:23:18 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-19_ignfr2map_automatisation_deploiement/</guid>
       
@@ -798,22 +816,6 @@ Nous étions tellement occupés à manger du chocolat que la revue de presse arr
       <pubDate>Sat, 23 Jan 2021 09:38:58 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-04-05/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 19 avril 2013</title>
-      
-      
-      <description># Revue de presse du 19 avril 2013
-
-Bonjour et bienvenue à bord de notre vol géomatique hebdomadaire. Les sorties de secours sont indiquées avec d&#39;OpenLayers 3 alpha côté nouveauté client, avec gvSIG 2.0 côté desktop et avec une pirouette de MapBox.js en Leaflet majeur.
-
-Pour des raisons de sécurité, notre système de navigation est basé sur des cartes Michelin réalisées avec les données Open Street Map en attendant le système de cartographie 3D iranien, actuellement en développement. Gardez votr</description>
-      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-04-19/</link>
-      <pubDate>Sat, 23 Jan 2021 09:38:58 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-04-19/</guid>
       
     </item>
     
