@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Fri, 26 Feb 2021 12:50:27 -0000</pubDate>
-    <lastBuildDate>Fri, 26 Feb 2021 12:50:27 -0000</lastBuildDate>
+    <pubDate>Mon, 01 Mar 2021 13:30:48 -0000</pubDate>
+    <lastBuildDate>Mon, 01 Mar 2021 13:30:48 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,24 @@
     
 
     
+    
+    <item>
+      <title>Développement QGIS : utiliser les documentations hors-ligne avec Zeal</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      <description>Blog-note de développement sur QGIS : présentation de Zeal qui permet de disposer d&#39;un naviguer hors-ligne dans les documentations techniques de QGIS et PyQGIS.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-03-02_utiliser_zeal_pour_qgis_developpement/</link>
+      <pubDate>Tue, 02 Mar 2021 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-03-02_utiliser_zeal_pour_qgis_developpement/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_doc_dash_zeal/zeal_search_filtered_pyqgis_qgsprovider.png" type="image/png" length="392736" />
+      
+    </item>
     
     <item>
       <title>Revue de presse du 26 février 2021</title>
@@ -719,24 +737,6 @@ De formation autodidacte, je travaille au Pays Marennes Oléron en tant que char
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-08-21/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/osm_flight_simulator_melbourde.jpeg" type="image/jpeg" length="64330" />
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 7 août 2020</title>
-      
-      
-        
-      <author>Geotribu</author>
-        
-      
-      <description>Revue de presse géomatique du 7 août 2020 (#GeoRDP) : OpenLayers 6.4, pgRouting 3.1, nouveau site GRASS, impact des météorites sur Terre, le Dessus des Cartes, OSM a 16 ans, SAGEO 2021</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-08-07/</link>
-      <pubDate>Fri, 07 Aug 2020 10:20:00 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-08-07/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/map_as_a_fish_mapporn.jpeg" type="image/jpeg" length="39906" />
       
     </item>
     

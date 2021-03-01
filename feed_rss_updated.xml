@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Fri, 26 Feb 2021 12:50:27 -0000</pubDate>
-    <lastBuildDate>Fri, 26 Feb 2021 12:50:27 -0000</lastBuildDate>
+    <pubDate>Mon, 01 Mar 2021 13:30:48 -0000</pubDate>
+    <lastBuildDate>Mon, 01 Mar 2021 13:30:48 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,36 @@
     
 
     
+    
+    <item>
+      <title>Développement QGIS : utiliser les documentations hors-ligne avec Zeal</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      <description>Blog-note de développement sur QGIS : présentation de Zeal qui permet de disposer d&#39;un naviguer hors-ligne dans les documentations techniques de QGIS et PyQGIS.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-03-02_utiliser_zeal_pour_qgis_developpement/</link>
+      <pubDate>Mon, 01 Mar 2021 13:29:06 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-03-02_utiliser_zeal_pour_qgis_developpement/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_doc_dash_zeal/zeal_search_filtered_pyqgis_qgsprovider.png" type="image/png" length="392736" />
+      
+    </item>
+    
+    <item>
+      <title>Intégrer une vidéo</title>
+      
+      
+      <description>Guide de contribution à Geotribu : comment intégrer une vidéo dans un contenu en Markdown.</description>
+      <link>https://static.geotribu.fr/contribuer/guides/video/</link>
+      <pubDate>Mon, 01 Mar 2021 13:29:06 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/guides/video/</guid>
+      
+    </item>
     
     <item>
       <title>Revue de presse du 26 février 2021</title>
@@ -779,43 +809,6 @@ C&#39;est une revue de presse bien chargée que nous vous proposons cette semain
       <pubDate>Sat, 23 Jan 2021 09:38:58 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2012/rdp_2012-11-08/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 5 novembre 2012</title>
-      
-      
-        
-      <author>GeoTribu</author>
-        
-      
-      <description># Revue de presse du 5 novembre 2012
-
-:calendar: Date de publication initiale : 09 novembre 2012
-
-**Mots-clés :** GeoRDP | GDAL | GeONG | HSLayers | LizMap | OGR | OpenLayers | QGIS | TileMill
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
- Vendredi c&#39;est revue de presse chez GeoTribu, il faut mettre la main à la pâte de la récolte de la semaine, tout mettre en forme pour vous le présenter. Donc cette semaine pas mal de nouve</description>
-      <link>https://static.geotribu.fr/rdp/2012/rdp_2012-11-09/</link>
-      <pubDate>Sat, 23 Jan 2021 09:38:58 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2012/rdp_2012-11-09/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 5 avril 2013</title>
-      
-      
-      <description># Revue de presse du 5 avril 2013
-
-Nous étions tellement occupés à manger du chocolat que la revue de presse arrive légèrement en retard cette semaine. Il paraîtrait que le chocolat augmente les capacités de mémorisation. Espérons que vous arriviez à retenir cette revue de presse assez conséquente. Du côté des technos web, OpenLayers se voit doté d&#39;[outils de mesure plus performants](#news21). Mais avis aux gourmands, inutile d&#39;essayer de mesurer votre poids après ces fêtes de Pâques. Un outil a</description>
-      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-04-05/</link>
-      <pubDate>Sat, 23 Jan 2021 09:38:58 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-04-05/</guid>
       
     </item>
     
