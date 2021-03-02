@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Mon, 01 Mar 2021 13:30:48 -0000</pubDate>
-    <lastBuildDate>Mon, 01 Mar 2021 13:30:48 -0000</lastBuildDate>
+    <pubDate>Tue, 02 Mar 2021 07:32:31 -0000</pubDate>
+    <lastBuildDate>Tue, 02 Mar 2021 07:32:31 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -33,6 +33,24 @@
     
     
     <item>
+      <title>Revue de presse du 26 février 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 26 février 2021 : cette édition de la revue de presse de la géomatique open-source a été co-rédigée à 16 mains. Cette dimension collaborative se retrouve dans la diversité des sujets évoqués : artificialisation des sols, MOOC Adresse, Géovélo, nuages de poussière et les traditionnelles évolutions d&#39;outils dont QGIS 3.16 LTR et QGIS 3.18 et bien d&#39;autres choses encore.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-02-26/</link>
+      <pubDate>Tue, 02 Mar 2021 07:08:39 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-02-26/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/nasa_perseverance_mars_map.jpg" type="image/jpeg" length="231265" />
+      
+    </item>
+    
+    <item>
       <title>Développement QGIS : utiliser les documentations hors-ligne avec Zeal</title>
       
       
@@ -42,7 +60,7 @@
       
       <description>Blog-note de développement sur QGIS : présentation de Zeal qui permet de disposer d&#39;un naviguer hors-ligne dans les documentations techniques de QGIS et PyQGIS.</description>
       <link>https://static.geotribu.fr/articles/2021/2021-03-02_utiliser_zeal_pour_qgis_developpement/</link>
-      <pubDate>Mon, 01 Mar 2021 13:29:06 -0000</pubDate>
+      <pubDate>Mon, 01 Mar 2021 16:49:43 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-03-02_utiliser_zeal_pour_qgis_developpement/</guid>
       
@@ -59,24 +77,6 @@
       <pubDate>Mon, 01 Mar 2021 13:29:06 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/contribuer/guides/video/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 26 février 2021</title>
-      
-      
-        
-      <author>Geotribu</author>
-        
-      
-      <description>GeoRDP du 26 février 2021 : cette édition de la revue de presse de la géomatiue a été co-rédigée à 16 mains. Cette dimension collaborative se retrouve dans la diversité des sujets évoqués : artificialisation des sols, MOOC Adresse, Géovélo, nuages de poussière et les traditionnelles évolutions d&#39;outils dont QGIS 3.16 LTR et QGIS 3.18.</description>
-      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-02-26/</link>
-      <pubDate>Fri, 26 Feb 2021 12:43:53 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-02-26/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/nasa_perseverance_mars_map.jpg" type="image/jpeg" length="231265" />
       
     </item>
     
