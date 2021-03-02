@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Tue, 02 Mar 2021 11:20:03 -0000</pubDate>
-    <lastBuildDate>Tue, 02 Mar 2021 11:20:03 -0000</lastBuildDate>
+    <pubDate>Tue, 02 Mar 2021 16:37:13 -0000</pubDate>
+    <lastBuildDate>Tue, 02 Mar 2021 16:37:13 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -33,6 +33,24 @@
     
     
     <item>
+      <title>Développement QGIS : utiliser les documentations hors-ligne avec Zeal</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      <description>Blog-note de développement sur QGIS : présentation de Zeal qui permet de disposer d&#39;un naviguer hors-ligne dans les documentations techniques de QGIS et PyQGIS.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-03-02_utiliser_zeal_pour_qgis_developpement/</link>
+      <pubDate>Tue, 02 Mar 2021 16:35:19 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-03-02_utiliser_zeal_pour_qgis_developpement/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_doc_dash_zeal/zeal_search_filtered_pyqgis_qgsprovider.png" type="image/png" length="392736" />
+      
+    </item>
+    
+    <item>
       <title>Revue de presse du 26 février 2021</title>
       
       
@@ -47,24 +65,6 @@
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-02-26/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/nasa_perseverance_mars_map.jpg" type="image/jpeg" length="231265" />
-      
-    </item>
-    
-    <item>
-      <title>Développement QGIS : utiliser les documentations hors-ligne avec Zeal</title>
-      
-      
-        
-      <author>Julien MOURA</author>
-        
-      
-      <description>Blog-note de développement sur QGIS : présentation de Zeal qui permet de disposer d&#39;un naviguer hors-ligne dans les documentations techniques de QGIS et PyQGIS.</description>
-      <link>https://static.geotribu.fr/articles/2021/2021-03-02_utiliser_zeal_pour_qgis_developpement/</link>
-      <pubDate>Mon, 01 Mar 2021 16:49:43 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-03-02_utiliser_zeal_pour_qgis_developpement/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_doc_dash_zeal/zeal_search_filtered_pyqgis_qgsprovider.png" type="image/png" length="392736" />
       
     </item>
     
