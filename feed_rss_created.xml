@@ -14,12 +14,12 @@
     <language>fr</language>
 
     
-    <pubDate>Tue, 02 Mar 2021 07:32:31 -0000</pubDate>
-    <lastBuildDate>Tue, 02 Mar 2021 07:32:31 -0000</lastBuildDate>
+    <pubDate>Tue, 02 Mar 2021 10:16:33 -0000</pubDate>
+    <lastBuildDate>Tue, 02 Mar 2021 10:16:33 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
-    <generator>MkDocs RSS plugin - v0.12.0</generator>
+    <generator>MkDocs RSS plugin - v0.13.0</generator>
 
     
     
@@ -324,11 +324,9 @@
       <title>Florian Boret</title>
       
       
-      <description># Florian Boret
-
-![Portrait Florian Boret](https://cdn.geotribu.fr/img/internal/contributeurs/fbor.png &#34;Portrait Florian Boret&#34;){: .img-rdp-news-thumb }
-
-Géomaticien/cartographe, je suis arrivé dans le monde de la géomatique en suivant un cursus « professionnalisant » (BTS Géomètre-Topographe, Licence pro GGAT, Master SIGAT). J’ai ensuite travaillé dans un bureau d’études spécialisé dans la production de données d’occupation du sol et puis pour des raisons personnelles je me suis expatrié quelqu</description>
+      <description>&lt;h1&gt;Florian Boret&lt;/h1&gt;
+&lt;p&gt;&lt;img alt=&#34;Portrait Florian Boret&#34; src=&#34;https://cdn.geotribu.fr/img/internal/contributeurs/fbor.png&#34; title=&#34;Portrait Florian Boret&#34;&gt;{: .img-rdp-news-thumb }&lt;/p&gt;
+&lt;p&gt;Géomaticien/cartographe, je suis arrivé dans le monde de la géomatique en suivant un cursus « professionnalisant » (BTS Géomètre-Topographe, Licence pro GGAT, Master SIGAT). J’ai ensuite travaillé dans un bureau d’études spécialisé dans la production de données d’occupation du sol et puis pour des raisons personnelles je me suis expatrié que...&lt;/p&gt;</description>
       <link>https://static.geotribu.fr/team/fbor/</link>
       <pubDate>Mon, 04 Jan 2021 21:40:16 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
@@ -376,13 +374,10 @@ Géomaticien/cartographe, je suis arrivé dans le monde de la géomatique en sui
       <title>Aurélien Chaumet</title>
       
       
-      <description># Aurélien Chaumet
-
-![Portrait Aurélien Chaumet](https://cdn.geotribu.fr/img/internal/contributeurs/achaumet.webp &#34;Portrait Aurélien Chaumet&#34;){: .img-rdp-news-thumb }
-
-Ingénieur en Aménagement du territoire, je suis arrivé à la géomatique par un hasard de parcours professionnel en 2016, suite à mon admission au concours d&#39;ingénieur territorial.
-
-De formation autodidacte, je travaille au Pays Marennes Oléron en tant que chargé de mission Système d&#39;Information Territoriale, sur toutes les thématiq</description>
+      <description>&lt;h1&gt;Aurélien Chaumet&lt;/h1&gt;
+&lt;p&gt;&lt;img alt=&#34;Portrait Aurélien Chaumet&#34; src=&#34;https://cdn.geotribu.fr/img/internal/contributeurs/achaumet.webp&#34; title=&#34;Portrait Aurélien Chaumet&#34;&gt;{: .img-rdp-news-thumb }&lt;/p&gt;
+&lt;p&gt;Ingénieur en Aménagement du territoire, je suis arrivé à la géomatique par un hasard de parcours professionnel en 2016, suite à mon admission au concours d&#39;ingénieur territorial.&lt;/p&gt;
+&lt;p&gt;De formation autodidacte, je travaille au Pays Marennes Oléron en tant que chargé de mission Système d&#39;Information Territoriale, sur toutes les théma...&lt;/p&gt;</description>
       <link>https://static.geotribu.fr/team/acha/</link>
       <pubDate>Sat, 19 Dec 2020 10:19:28 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
