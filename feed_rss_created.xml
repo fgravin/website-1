@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Tue, 02 Mar 2021 16:37:13 -0000</pubDate>
-    <lastBuildDate>Tue, 02 Mar 2021 16:37:13 -0000</lastBuildDate>
+    <pubDate>Fri, 05 Mar 2021 12:25:06 -0000</pubDate>
+    <lastBuildDate>Fri, 05 Mar 2021 12:25:06 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,24 @@
     
 
     
+    
+    <item>
+      <title>Présentation de Geotribu sur les Reclus aux Confins</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>Les Reclus aux Confins : Découvrir ou redécouvrir la présentation de GeoTribu - Contributions ouvertes à tous</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-03-05_reclus_confins_replay_geotribu/</link>
+      <pubDate>Fri, 05 Mar 2021 14:00:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-03-05_reclus_confins_replay_geotribu/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/presentation_reclus_confins/geotribu_slide_contributions_ouvertes.png" type="image/png" length="341100" />
+      
+    </item>
     
     <item>
       <title>Développement QGIS : utiliser les documentations hors-ligne avec Zeal</title>
@@ -714,24 +732,6 @@
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-08-31_geotribu_histoire/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/geotribu/history/geotribu_frise_chrono_2006-2017.png" type="image/png" length="72015" />
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 21 août 2020</title>
-      
-      
-        
-      <author>Geotribu</author>
-        
-      
-      <description>Revue de presse géomatique du 21 août 2020 (#GeoRDP) : les visualisations de Craig Taylor, l&#39;accès libre (mais caché !) aux orthophographies en haute résolution de l&#39;IGN, le travail en cours sur une balise HTML map (Map4HTML ou MapML), une faute de frappe dans OSM aboutit sur une incongruité (mot compte triple) dans Flight Simulator, une Google Car arrêtée par la gendarmerie française et la finalisation de la constellation de satellites chinois BeiDou.</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-08-21/</link>
-      <pubDate>Fri, 21 Aug 2020 14:20:00 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-08-21/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/osm_flight_simulator_melbourde.jpeg" type="image/jpeg" length="64330" />
       
     </item>
     
