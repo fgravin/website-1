@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Mon, 08 Mar 2021 20:31:54 -0000</pubDate>
-    <lastBuildDate>Mon, 08 Mar 2021 20:31:54 -0000</lastBuildDate>
+    <pubDate>Mon, 08 Mar 2021 20:45:56 -0000</pubDate>
+    <lastBuildDate>Mon, 08 Mar 2021 20:45:56 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -33,6 +33,24 @@
     
     
     <item>
+      <title>Afficher facilement l&#39;aide de son plugin QGIS</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      <description>Petite astuce dans le développement de plugins QGIS : rediriger facilement l&#39;utilisateur final vers la documentation en ligne.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-03-09_pyqgis_astuce_aide_plugin/</link>
+      <pubDate>Tue, 09 Mar 2021 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-03-09_pyqgis_astuce_aide_plugin/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_plugin_show_help/documentation_le-chat.jpg" type="image/jpeg" length="31898" />
+      
+    </item>
+    
+    <item>
       <title>Présentation de Geotribu sur les Reclus aux Confins</title>
       
       
@@ -47,24 +65,6 @@
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-03-05_reclus_confins_replay_geotribu/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/presentation_reclus_confins/geotribu_slide_contributions_ouvertes.png" type="image/png" length="341100" />
-      
-    </item>
-    
-    <item>
-      <title>Afficher facilement l&#39;aide de son plugin QGIS</title>
-      
-      
-        
-      <author>Julien MOURA</author>
-        
-      
-      <description>Petite astuce dans le développement de plugins QGIS : rediriger facilement l&#39;utilisateur final vers la documentation en ligne.</description>
-      <link>https://static.geotribu.fr/articles/2021/2021-03-02_pyqgis_astuce_aide_plugin/</link>
-      <pubDate>Tue, 02 Mar 2021 10:20:00 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-03-02_pyqgis_astuce_aide_plugin/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_plugin_show_help/documentation_le-chat.jpg" type="image/jpeg" length="31898" />
       
     </item>
     
