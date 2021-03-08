@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Fri, 05 Mar 2021 12:25:06 -0000</pubDate>
-    <lastBuildDate>Fri, 05 Mar 2021 12:25:06 -0000</lastBuildDate>
+    <pubDate>Mon, 08 Mar 2021 20:31:54 -0000</pubDate>
+    <lastBuildDate>Mon, 08 Mar 2021 20:31:54 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,24 @@
     
 
     
+    
+    <item>
+      <title>Afficher facilement l&#39;aide de son plugin QGIS</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      <description>Petite astuce dans le développement de plugins QGIS : rediriger facilement l&#39;utilisateur final vers la documentation en ligne.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-03-02_pyqgis_astuce_aide_plugin/</link>
+      <pubDate>Mon, 08 Mar 2021 20:30:30 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-03-02_pyqgis_astuce_aide_plugin/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_plugin_show_help/documentation_le-chat.jpg" type="image/jpeg" length="31898" />
+      
+    </item>
     
     <item>
       <title>Présentation de Geotribu sur les Reclus aux Confins</title>
@@ -710,26 +728,6 @@ Et puis...&lt;/p&gt;</description>
       <pubDate>Sat, 23 Jan 2021 09:38:58 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2012/rdp_2012-02-20/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 16 Avril</title>
-      
-      
-        
-      <author>GeoTribu</author>
-        
-      
-      <description>&lt;h1&gt;Revue de presse du 16 Avril 2012&lt;/h1&gt;
-&lt;p&gt;:calendar: Date de publication initiale : 21 avril 2012&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; OpenLayers | OpenStreetMap | OSM | Presse | GRASS | mapstory&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;News&#34; src=&#34;https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png&#34; title=&#34;Icône news générique&#34;&gt;{: .img-rdp-news-thumb }
- Une fois n&#39;est pas coutume, nous avons dû déroger à notre règle de publier la revue de presse le vendredi, l&#39;équipe étant débordée. Ça valait le coup d&#39;attendre: des news sympas cette semaine, nos coups de co...&lt;/p&gt;</description>
-      <link>https://static.geotribu.fr/rdp/2012/rdp_2012-04-21/</link>
-      <pubDate>Sat, 23 Jan 2021 09:38:58 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2012/rdp_2012-04-21/</guid>
       
     </item>
     
